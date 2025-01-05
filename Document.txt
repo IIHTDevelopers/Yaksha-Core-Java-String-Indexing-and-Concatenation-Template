@@ -1,0 +1,27 @@
+String Indexing and String Concatenation Project - Detailed Documentation
+Objective
+The goal of this project is to assess participants' understanding of string indexing and concatenation in Java. Participants will be required to demonstrate the use of string indexing techniques and various string concatenation methods through coding exercises.
+
+The key areas of focus are:
+
+String Indexing: Accessing characters from specific positions and finding positions of substrings.
+String Concatenation: Combining multiple strings using different techniques.
+
+Assessment Tasks
+
+1. String Indexing Tasks
+Accessing Characters in a String:
+Using charAt(index) to access the character at a specified index.
+Finding Index Positions:
+Using indexOf(substring) to find the index of the first occurrence of a substring.
+Using lastIndexOf(substring) to find the index of the last occurrence of a substring.
+Extracting Substrings:
+Using substring(startIndex, endIndex) to extract a substring between the specified start and end indices.
+
+2. String Concatenation Tasks
+Concatenating Strings Using concat():
+Using the concat() method to combine strings.
+Concatenating Strings Using + Operator:
+Using the + operator to concatenate strings in Java.
+Efficient Concatenation Using StringBuilder:
+Using the StringBuilder class to append strings efficiently, especially in loops or repeated concatenation operations.
